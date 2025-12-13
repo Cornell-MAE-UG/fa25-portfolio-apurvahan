@@ -5,4 +5,4 @@ technologies: MATLAB
 image: /assets/images/spaceship-design.jpg
 
 
-[View Report Here]({ "/assets\MAE 3260 Final Group Work_ Exploring a System of Interest.pdf" | relative_url }) in PDF format.
+[View Report Here]({{ "/assets\MAE 3260 Final Group Work_ Exploring a System of Interest.pdf" | relative_url }}) in PDF format.
