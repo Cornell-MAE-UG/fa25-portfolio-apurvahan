@@ -3,7 +3,7 @@ layout: project
 title: System Dynamics Project
 description: Analysis of a massage gun's system dyanamics 
 technologies: MATLAB
-image: /assets/images/massage_gun.jpg
+image: /assets/images/massage_gun.png
 ---
 
 System Dynamics Project:
