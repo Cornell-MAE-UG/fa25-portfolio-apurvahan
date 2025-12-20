@@ -1,13 +1,12 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: MAE 3230 Fluids Dissection
+description: In this video we explain the fluid mechanical principles behind a air fryer.
 ---
 
+[Visit Link Here]({{ "youtube.com/watch?v=nZxj0oJAFd0&feature=youtu.be" | relative_url}}) 
+I worked on the final stages of dissection with my part of my group in the Friday discussion section and we took apart the outer casing as well as the electronic components and the motor to see if we could find any more paths for fluid flow. Afterward, when making the video, I worked with my groupmates to figure out out final theories for how the device works and specifically why the impeller shapes are designed the way they are. I then drew the diagram of our system with the arrows for where fluid goes. Ana and I worked on the final calculations for flow and Reynolds number and then I worked on the slide I presented and recorded. 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+
 
