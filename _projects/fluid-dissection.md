@@ -4,7 +4,7 @@ title: MAE 3230 Fluids Dissection
 description: In this video we explain the fluid mechanical principles behind a air fryer.
 ---
 
-<h1>My YouTube Video</h1>
+<h3>Dissection Video</h3>
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/nZxj0oJAFd0"
