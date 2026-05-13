@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Project
 description: robot for final mechatronics competition
 technologies: [Autodesk Fusion, Arduino, Coding, Wiring]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/mechatronics.png
 ---
 My group and I worked on a robot for the final mechatronics competition:
 
